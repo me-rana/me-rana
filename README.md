@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="../image/Rana --cover.jpeg" />
+"
 
 <!--
 **me-rana/me-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
