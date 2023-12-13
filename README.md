@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="../image/Rana--cover.png" />
+<img src="image/Rana--cover.png">
 "
 
 <!--
