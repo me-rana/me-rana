@@ -7,7 +7,7 @@ Thanks, <br>
 <strong>Rana Bepari</strong><br>
 Web Developer and Designer <br>
 B.Sc Engr. in Electronics and Communication Engineering (ECE) <br>
-Official Website: <a href="https://ranasvc.com">https://ranasvc.com</a> <br>
+Official Website: <a href="https://ranasvc.com">https://ranasvc.com</a> (Live Preview is unavialable due to server crash --Comming soon...) <br>
 Official Email: <a href="mailto:contact@ranasvc.com">contact@ranasvc.com</a>
 <!--
 **me-rana/me-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
