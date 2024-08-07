@@ -5,7 +5,7 @@ This is Rana Bepari. I have just completed my B.Sc. in Electronics and Communica
 <br>
 Thanks, <br>
 <strong>Rana Bepari</strong><br>
-Software Engineer(Practitioner) <br>
+Software Engineer(Junior) <br>
 B.Sc Engr. in Electronics and Communication Engineering (ECE) <br>
 Official Website: <a href="https://ranasvc.com">https://ranasvc.com</a> <br>
 Official Email: <a href="mailto:contact@ranasvc.com">contact@ranasvc.com</a>
