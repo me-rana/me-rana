@@ -1,25 +1,41 @@
-
 <img src="image/rana_bepari_bpr9.png" height="350px" width="100%">
-Assalamulaikum!<br>
-This is Rana Bepari. I have just completed my B.Sc. in Electronics and Communication Engineering (ECE). I recently developed my skills in programming languages like PHP, HTML, CSS, Javascript, Java and so on. I worked before as a WordPress developer and fixed WordPress issues on Fiverr. I started to develop the Laravel website on the other side. Now I have developed my skills and am continuously learning and trying to improve them. I developed some Laravel websites with multi-auth panels and added some advanced features. You can see this from the "Samples" menu. I also developed some apps in Android Studio as practice. <br>
-<br>
-Thanks, <br>
-<strong>Rana Bepari</strong><br>
-Software Engineer(Junior) <br>
-B.Sc Engr. in Electronics and Communication Engineering (ECE) <br>
-Official Website: <a href="https://ranasvc.com">https://ranasvc.com</a> <br>
-Official Email: <a href="mailto:contact@ranasvc.com">contact@ranasvc.com</a>
-<!--
-**me-rana/me-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Assalamualaikum! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is **Rana Bepari**, a passionate Software Engineer (Junior) with a B.Sc. in Electronics and Communication Engineering (ECE). I have recently developed my skills in several programming languages including:
+
+- PHP
+- HTML
+- CSS
+- JavaScript
+- Java
+- Laravel
+- WordPress (Bug Fixing & Development)
+
+## 💼 Experience & Projects
+
+Previously, I worked as a **WordPress Developer** on [Fiverr](https://www.fiverr.com), where I resolved various WordPress-related issues for clients.
+
+Currently, I am actively working on **Laravel web applications**, with features like:
+
+- Multi-authentication panels
+- Advanced backend functionality
+- Secure & modular design
+
+You can find some examples of my work under the **Samples** menu on my website.
+
+I also enjoy experimenting with **Android app development** using **Android Studio** as a side project and learning experience.
+
+## 📫 Contact Me
+
+- 🌐 Website: [https://rana.com.bd](https://rana.com.bd)
+- 📧 Email: [contact@rana.com.bd](mailto:contact@rana.com.bd)
+
+---
+
+> ⚠️ **Note:** Due to production-level confidentiality, some of my projects are private.
+
+---
+
+Thanks for visiting!  
+**— Rana Bepari**
