@@ -33,7 +33,7 @@ I also enjoy experimenting with **Android app development** using **Android Stud
 
 ---
 
-> ⚠️ **Note:** Due to production-level confidentiality, some of my projects are private.
+> ⚠️ **Note:** Due to production-level confidentiality, Laravel projects are private.
 
 ---
 
