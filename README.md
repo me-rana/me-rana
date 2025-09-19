@@ -7,7 +7,7 @@ This is **Rana Bepari**, a passionate **Software Engineer** with a **B.Sc. in El
 **Backend & Web:** PHP, Laravel, WordPress (Bug Fixing & Development)  
 **Frontend:** HTML, CSS, JavaScript  
 **Mobile & Apps:** Java, Android Studio  
-**Other Skills:** API Development, Unity Integration, SEO-friendly Web Development  
+**Other Skills:** API Development, Unity Integration, SEO-friendly Web Development, **Cloud VPS Management(AWS,DigitalOcean, Hetzner, Time4VPS) & Laravel Deployment**
 
 ---
 
