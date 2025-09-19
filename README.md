@@ -48,7 +48,7 @@ You can find some examples of my work under the **Samples** menu on my website.
 **Databases:** MySQL, Room Database  
 **Tools & Architecture:** MVC, Retrofit, Git, REST API  
 **Web Development:** Responsive & SEO-friendly websites, E-commerce, Blog, Portfolio, Custom Apps  
-**Game Development:** Unity integration with Laravel backend  
+**Game Development:** Collabrotation With Unity Game through Laravel Api's
 
 ---
 
