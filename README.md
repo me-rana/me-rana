@@ -2,7 +2,7 @@
 
 # Assalamualaikum! 👋
 
-This is **Rana Bepari**, a passionate **Software Engineer** with a **B.Sc. in Electronics and Communication Engineering (ECE)**. I have developed my skills in multiple programming languages and frameworks, including:
+This is **Rana Bepari**, a passionate **Junior Software Engineer** with a **B.Sc. in Electronics and Communication Engineering (ECE)**. I have developed my skills in multiple programming languages and frameworks, including:
 
 **Backend & Web:** PHP, Laravel, WordPress (Bug Fixing & Development)  
 **Frontend:** HTML, CSS, JavaScript  
@@ -13,18 +13,20 @@ This is **Rana Bepari**, a passionate **Software Engineer** with a **B.Sc. in El
 
 ## 💼 Experience & Projects
 
-I have **1.5 years of professional experience** working in various IT companies and freelance projects. Some highlights include:
+I have **1.5 years of professional IT company experience** and **1+ years of freelance experience** working on various projects. Some highlights include:
 
-**WordPress Developer** – Resolved client issues and developed features on [Fiverr](https://www.fiverr.com/me_rana)  
+**Professional IT Experience**  
+- **Laravel Web Applications** – Features include:  
+  - Multi-authentication panels  
+  - Advanced backend functionality  
+  - Secure & modular design  
+  - Realtime data insert & update  
+  - REST APIs for web and mobile apps  
+  - Laravel to Android notifications  
+  - Unity & Android game collaboration  
 
-**Laravel Web Applications** – Features include:  
-- Multi-authentication panels  
-- Advanced backend functionality  
-- Secure & modular design  
-- Realtime data insert & update  
-- REST APIs for web and mobile apps  
-- Laravel to Android notifications  
-- Unity & Android game collaboration  
+**Freelance Experience**  
+- **WordPress Developer** – Resolved client issues and developed features on [Fiverr](https://www.fiverr.com/me_rana)  
 
 **Project Highlights:**  
 - **Newspaper Website** – Responsive and user-friendly news platform  
