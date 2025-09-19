@@ -2,7 +2,7 @@
 
 # Assalamualaikum! 👋
 
-This is **Rana Bepari**, a passionate **Junior Software Engineer** with a **B.Sc. in Electronics and Communication Engineering (ECE)**. I have developed my skills in multiple programming languages and frameworks, including:
+This is **Rana Bepari**, a passionate **Software Engineer** with a **B.Sc. in Electronics and Communication Engineering (ECE)**. I have developed my skills in multiple programming languages and frameworks, including:
 
 **Backend & Web:** PHP, Laravel, WordPress (Bug Fixing & Development)  
 **Frontend:** HTML, CSS, JavaScript  
