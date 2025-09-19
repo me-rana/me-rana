@@ -45,7 +45,7 @@ You can find some examples of my work under the **Samples** menu on my website.
 ## 🛠️ Skills Summary
 
 **Programming & Frameworks:** PHP, Laravel, WordPress, Java, JavaScript, HTML, CSS  
-**Databases:** MySQL, SQLite, Room Database  
+**Databases:** MySQL, Room Database  
 **Tools & Architecture:** MVVM, Retrofit, Git, REST API  
 **Web Development:** Responsive & SEO-friendly websites, E-commerce, Blog, Portfolio, Custom Apps  
 **Game Development:** Unity integration with Laravel backend  
