@@ -61,7 +61,7 @@ You can find some examples of my work under the **Samples** menu on my website.
 
 ---
 
-> ⚠️ **Note:** Due to production-level confidentiality, most Laravel projects are private.  
+> ⚠️ **Note:** I used Gitlab for Production Level Projects.
 
 ---
 
