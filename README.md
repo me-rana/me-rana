@@ -61,8 +61,7 @@ You can find some examples of my work under the **Samples** menu on my website.
 
 ---
 
-> ⚠️ **Note:** I used Gitlab for Production Level Projects.
-
+> ⚠️ **Note:** I am currently using GitLab for my Projects.
 ---
 
 Thanks for visiting!  
